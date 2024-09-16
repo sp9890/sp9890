@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sakshi Patankar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp9890&label=Profile%20views&color=0e75b6&style=flat" alt="sp9890" /> </p>
+<p align="left"> <img src="https://github.com/Mahimatestgithub?username=sp9890&label=Profile%20views&color=0e75b6&style=flat" alt="sp9890" /> </p>
 
 - 🔭 I’m currently working on **my SkillSets**
 
