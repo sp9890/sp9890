@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sakshipatankar9095@gmail.com**
 
-- 📄 Resume (file:///C:/Users/Admin/Downloads/Sakshi%20Patankar%20Resume1.pdf)
+- 📄 Resume[file:///C:/Users/Admin/Downloads/Sakshi%20Patankar%20Resume1.pdf](https://drive.google.com/file/d/1Sr1J4icDP2TDhu_vwk9jEKhb2cFbwmot/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
